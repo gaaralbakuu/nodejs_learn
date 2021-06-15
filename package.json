@@ -18,9 +18,11 @@
   },
   "homepage": "https://github.com/gaaralbakuu/nodejs_learn#readme",
   "dependencies": {
+    "atpl": "^0.9.3",
     "express": "^4.17.1"
   },
   "devDependencies": {
+    "morgan": "^1.10.0",
     "nodemon": "^2.0.7"
   }
 }
